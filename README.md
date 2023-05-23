@@ -1,4 +1,4 @@
-# PS_NameConversions
+# NameConversions
 Module / Function collection for various name/path conversions
 
 ## Why
